@@ -1,4 +1,4 @@
-## Hi there 👋
+## In progress 👋
 
 
 <a href="https://github.com/0verthrive/github-readme-stats">
@@ -10,10 +10,13 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="cross-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="cross-C" height="50" width="50" src="https://img.icons8.com/nolan/96/windows-10.png"/>
   
 ##
   
