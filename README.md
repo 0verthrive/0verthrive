@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/sara-lessa/" target="_blank"><img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a>
 </div>
   
 
