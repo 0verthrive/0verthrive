@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be33ff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Sara;I+study+Artificial+Intelligence+at+FIAP;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0verthrive&show_icons=true&count_private=true&hide_border=true&title_color=be33ff&icon_color=003eff&text_color=be33ff&bg_color=000000" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0verthrive&layout=compact&hide_border=true&title_color=be33ff&text_color=be33ff&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0verthrive&show_icons=true&count_private=true&hide_border=true&title_color=ff0068&icon_color=003eff&text_color=ff0068&bg_color=000000" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0verthrive&layout=compact&hide_border=true&title_color=ff0068&text_color=ff0068&bg_color=000000" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0verthrive&bg_color=0000009&color=5098f9&line=be33ff&point=003eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0verthrive&bg_color=000000&color=ff0068&line=be33ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0verthrive&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
